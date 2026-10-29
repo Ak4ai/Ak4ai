@@ -102,10 +102,30 @@ Cliente Discord **nativo e leve**, escrito do zero em Rust. Envio de tela **1080
 
 ---
 
+## 📊 GitHub em números
+
+<div align="center">
+
+<img src="assets/stats.svg" alt="Estatísticas do GitHub" width="100%" />
+
+</div>
+
+---
+
 ## 🤝 Também por aí
 
 - Dashboard de indicadores de saúde para a SEMUSA de Divinópolis (projeto integrador do CEFET-MG): autenticação, perfis de acesso e auditoria.
 - Extensionista voluntário no projeto **SAFE** (CEFET-MG).
+
+## 📫 Contato
+
+<div align="center">
+
+[![E-mail](https://img.shields.io/badge/E--mail-hfreitas2607%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hfreitas2607@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Henrique%20Freitas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-freitas-11b279430/)
+[![Lattes](https://img.shields.io/badge/Curr%C3%ADculo-Lattes-1B4F72?style=for-the-badge)](https://lattes.cnpq.br/9766662738374154)
+
+</div>
 
 <div align="center">
 

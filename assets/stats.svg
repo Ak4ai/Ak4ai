@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" width="1200" height="330" role="img" aria-label="Estatísticas do GitHub">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#1a1440"/></linearGradient><linearGradient id="t" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#5eead4"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs>
+<rect width="1200" height="330" rx="18" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="328" rx="17" fill="none" stroke="#ffffff" stroke-opacity="0.12"/>
+<text x="48" y="58" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#ffffff">GitHub em números</text>
+<rect x="48" y="70" width="90" height="4" rx="2" fill="url(#t)"/>
+<text x="48" y="140" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="40" font-weight="700" fill="#5eead4">33</text>
+<text x="48" y="166" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#cbd5e1">repositórios públicos</text>
+<text x="238" y="140" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="40" font-weight="700" fill="#5eead4">71</text>
+<text x="238" y="166" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#cbd5e1">estrelas recebidas</text>
+<text x="428" y="140" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="40" font-weight="700" fill="#5eead4">1.267</text>
+<text x="428" y="166" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#cbd5e1">contribuições em 12 meses</text>
+<text x="48" y="238" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="40" font-weight="700" fill="#5eead4">1.198</text>
+<text x="48" y="264" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#cbd5e1">commits em 12 meses</text>
+<text x="238" y="238" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="40" font-weight="700" fill="#5eead4">21</text>
+<text x="238" y="264" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#cbd5e1">pull requests aceitos</text>
+<text x="428" y="238" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="40" font-weight="700" fill="#5eead4">10</text>
+<text x="428" y="264" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#cbd5e1">seguidores</text>
+<text x="700" y="58" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Linguagens mais usadas</text>
+<rect x="700" y="70" width="90" height="4" rx="2" fill="url(#t)"/>
+<text x="700" y="112" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#e2e8f0">JavaScript</text>
+<rect x="830" y="99" width="260" height="12" rx="6" fill="#ffffff" fill-opacity="0.08"/>
+<rect x="830" y="99" width="260.0" height="12" rx="6" fill="#f1e05a"/>
+<text x="1100" y="112" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#cbd5e1">24.9%</text>
+<text x="700" y="145" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#e2e8f0">Rust</text>
+<rect x="830" y="132" width="260" height="12" rx="6" fill="#ffffff" fill-opacity="0.08"/>
+<rect x="830" y="132" width="237.0" height="12" rx="6" fill="#dea584"/>
+<text x="1100" y="145" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#cbd5e1">22.7%</text>
+<text x="700" y="178" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#e2e8f0">Python</text>
+<rect x="830" y="165" width="260" height="12" rx="6" fill="#ffffff" fill-opacity="0.08"/>
+<rect x="830" y="165" width="226.3" height="12" rx="6" fill="#3572a5"/>
+<text x="1100" y="178" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#cbd5e1">21.7%</text>
+<text x="700" y="211" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#e2e8f0">TypeScript</text>
+<rect x="830" y="198" width="260" height="12" rx="6" fill="#ffffff" fill-opacity="0.08"/>
+<rect x="830" y="198" width="84.5" height="12" rx="6" fill="#3178c6"/>
+<text x="1100" y="211" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#cbd5e1">8.1%</text>
+<text x="700" y="244" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#e2e8f0">HTML</text>
+<rect x="830" y="231" width="260" height="12" rx="6" fill="#ffffff" fill-opacity="0.08"/>
+<rect x="830" y="231" width="79.6" height="12" rx="6" fill="#e34c26"/>
+<text x="1100" y="244" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#cbd5e1">7.6%</text>
+<text x="700" y="277" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#e2e8f0">CSS</text>
+<rect x="830" y="264" width="260" height="12" rx="6" fill="#ffffff" fill-opacity="0.08"/>
+<rect x="830" y="264" width="64.8" height="12" rx="6" fill="#8b5cf6"/>
+<text x="1100" y="277" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#cbd5e1">6.2%</text>
+<text x="48" y="308" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#94a3b8">Dados da API do GitHub, atualizados em 29/10/2026. Linguagens por bytes nos repositórios públicos próprios.</text>
+</svg>
