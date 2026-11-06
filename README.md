@@ -20,12 +20,6 @@ Estudante de **Engenharia da Computação no CEFET-MG (Divinópolis)**, apaixona
 <div align="center">
 
 <a href="https://github.com/Ak4ai/Litecord">
-  <img src="https://raw.githubusercontent.com/Ak4ai/Litecord/main/assets/demo_preview.gif" alt="Litecord em ação" width="720" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Ak4ai/Litecord">
   <img src="assets/litecord-promo.gif" alt="Litecord: ultraleve, P2P e seguro" width="720" />
 </a>
 
