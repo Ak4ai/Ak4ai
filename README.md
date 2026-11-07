@@ -76,9 +76,10 @@ Cliente Discord **nativo e leve**, escrito do zero em Rust. Envio de tela **1080
       <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white" alt="OpenGL" />
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/SrRapero720/waterframes"><b>🧩 waterframes</b></a> (contribuição)<br/>
-      Port do mod de Minecraft para a 1.21.8, com PR aceito no repositório original.<br/><br/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+      <a href="https://github.com/Ak4ai/cinefy-stremio-addon-prototipo"><b>🔌 Cinefy para Stremio</b></a> (protótipo)<br/>
+      Addon local do Stremio que transforma cada vídeo de cada canal do Cinefy em uma fonte de filme ou episódio, com login em página própria, busca por texto e releases automáticas.<br/><br/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
     </td>
   </tr>
 </table>
