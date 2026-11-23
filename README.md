@@ -15,7 +15,7 @@ Estudante de **Engenharia da Computação no CEFET-MG (Divinópolis)**, apaixona
 
 ---
 
-## 🚀 Em destaque: Litecord
+## 🚀 Em destaque: ☁️ <a href="https://github.com/Ak4ai/Litecord"><b>Litecord</b></a><br/>
 
 <div align="center">
 
